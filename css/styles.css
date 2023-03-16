@@ -41,10 +41,10 @@ body {
   color: var(--primary-text-color);
 }
 
-.mail-contact .link:hover,
-.mail-contact .link:focus{color:#404BBF ;}
+.mail-contact :hover,
+.mail-contact :focus{color:#404BBF ;}
 
-.phone-contact .link{
+.phone-contact {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
