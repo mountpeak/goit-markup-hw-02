@@ -58,7 +58,7 @@ body {
  text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
- color:var(--secondary-text-color);
+ color:#2E2F42;
 }
 .web-logo {
   font-family: "Raleway", sans-serif;
@@ -80,7 +80,7 @@ body {
   align-items: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color:var(--secondary-text-color);
+  color:#2E2F42;
 
 }
 .footer-studio-logo{font-family: 'Raleway';
@@ -99,7 +99,7 @@ color: #F4F4FD;}
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--secondary-text-color);
+  color: #2E2F42;
 }
 
 /* ======================================Hero========================================== */
@@ -164,7 +164,7 @@ background:#F4F4FD;}
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color:var(--secondary-text-color);
+  color:#2E2F42;
 }
 
 /* ======================================footer========================================== */
