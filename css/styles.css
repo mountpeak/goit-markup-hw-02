@@ -16,6 +16,8 @@
 }
 body {
   font-family: var(--pimary-font);
+  color: #434455 ;
+  background-color: #FFFFFF;
 }
 
 /* ======================================Komponents========================================== */
