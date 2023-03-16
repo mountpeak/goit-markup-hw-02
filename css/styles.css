@@ -34,16 +34,17 @@ body {
 }
 
 .mail-contact {
+  font-style: normal 
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.02em; 
   color: var(--primary-text-color);
 }
 
-.mail-contact:hover,
-.mail-contact:focus{color:#404BBF ;}
+.mail-contact .link:hover,
+.mail-contact .link:focus{color:#404BBF ;}
 
-.phone-contact {
+.phone-contact .link{
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
