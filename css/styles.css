@@ -1,0 +1,98 @@
+.link {
+  text-decoration: none;
+}
+.list {
+  list-style: none;
+}
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+/* ======================================Komponents========================================== */
+.descr-title {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.descr-title-dark {
+  color: #434455;
+}
+.descr-title-light {
+  color: #f4f4fd;
+}
+
+.mail-contact {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.phone-contact {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+/* ======================================Header========================================== */
+
+.web-logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+.studio-logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.17;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #2e2f42;
+}
+
+.menu-link {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+/* ======================================Section our works========================================== */
+
+.nav-button {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.04em;
+  color: #4d5ae5;
+}
+.nav-button:hover,
+.nav-button:hover {
+  background-color: #404bbf;
+  color: #ffffff;
+}
+
+/* ======================================Products========================================== */
+.product-item {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+/* ======================================footer========================================== */
