@@ -35,6 +35,14 @@ body {
   color: #434455;
 }
 /* ======================================Header========================================== */
+.second-title{font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+ text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+color: #2E2F42;}
 
 .web-logo {
   font-family: "Raleway", sans-serif;
@@ -57,7 +65,18 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #2e2f42;
+
 }
+.footer-studio-logo{font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 21px;
+ display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+color: #F4F4FD;}
 
 .menu-link {
   font-weight: 500;
@@ -67,9 +86,46 @@ body {
   color: #2e2f42;
 }
 
+/* ======================================Hero========================================== */
+
+.hero-title{/* Header 1 */
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 60px;
+text-align: center;
+  letter-spacing: 0.02em;
+ color: #FFFFFF;}
+
+
+
+
+
+ .tipe-button{  
+ 
+  font-family: inherit
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.04em;
+ color: #FFFFFF;
+
+background: #4D5AE5;}
+
+.tipe-button:hover,
+.tipe-button:hover {
+  background-color:#404BBF;
+  color: #ffffff;
+}
 /* ======================================Section our works========================================== */
 
 .nav-button {
+  font-family: inherit
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
