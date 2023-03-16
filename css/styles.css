@@ -4,6 +4,7 @@
 --secondary-text-color: #2E2F42
 --light-text-color
 --secondary-font:"Raleway", sans-serif;
+--background-color: #2e2f42;
 }
 
 
@@ -116,7 +117,8 @@ color: #F4F4FD;}
 
 
 /* ======================================Hero========================================== */
-.hero{color: #2e2f42;
+
+.hero{background-color: var(--background-color);
 }
 .hero-title{
 font-family:var(--pimary-font);
