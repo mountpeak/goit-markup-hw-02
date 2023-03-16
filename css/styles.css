@@ -5,9 +5,8 @@
 --light-text-color
 --secondary-font:"Raleway", sans-serif;
 --background-color: #2e2f42;
+
 }
-
-
 
 .link {
   text-decoration: none;
@@ -192,3 +191,5 @@ background:#F4F4FD;}
   letter-spacing: 0.02em;
 color: #2E2F42;}
 /* ======================================footer========================================== */
+
+.page-footer{background-color: var(--background-color);}
