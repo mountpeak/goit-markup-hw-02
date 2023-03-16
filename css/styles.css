@@ -116,14 +116,15 @@ color: #F4F4FD;}
 
 
 /* ======================================Hero========================================== */
-
+.hero{color: #2e2f42;
+}
 .hero-title{/* Header 1 */
 
   font-family:var(--pimary-font);
   font-style: normal;
   font-weight: 700;
   font-size: 56px;
-  line-height: 60px;
+  line-height: 1.07 
 text-align: center;
   letter-spacing: 0.02em;
  color: #FFFFFF;}
@@ -147,7 +148,7 @@ background: #4D5AE5;}
 
 .tipe-button: hover,
 .tipe-button: focus{
-  background: var(--accent-color);
+
   color: #FFFFFF;
 }
 .nav-button{  
@@ -165,8 +166,9 @@ background:#F4F4FD;}
 
 .tipe-button:hover,
 .tipe-button:focus {
-  background-color:var(--accent-color);
+  background-color;:#404BBF 
   color: #ffffff;}
+
 /* ======================================Section our works========================================== */
 
 
