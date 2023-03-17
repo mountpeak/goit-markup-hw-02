@@ -1,11 +1,11 @@
 :root{accent-color: #404BBF;
 --pimary-font:"Roboto", sans-serif;
 --primary-text-color:#434455;
---secondary-text-color: #2E2F42
---light-text-color
+--secondary-text-color: #2E2F42;
 --secondary-font:"Raleway", sans-serif;
 --background-color: #2e2f42;
 --web-logo: #4D5AE5;
+--paragraf-dark:#434455;
 }
 
 .link {
@@ -27,7 +27,7 @@ body {
   letter-spacing: 0.02em;
 }
 .descr-title-dark {
-  color: var#434455;
+  color: var(--paragraf-dark);
 }
 .descr-title-light {
   color: #f4f4fd;
