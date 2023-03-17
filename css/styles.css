@@ -1,18 +1,18 @@
 :root {
   --accent-color: #404bbf;
   --pimary-font: "Roboto", sans-serif;
-  --secondary-font:"Raleway", sans-serif;
+  --secondary-font: "Raleway", sans-serif;
   --primary-text-color: #434455;
   --secondary-text-color: #2e2f42;
   --background-color-navy: #2e2f42;
---logo-text-light:#f4f4fd;
---background-color-white: #ffffff;
---background-color-cloud:#f4f4fd;
+  --logo-text-light: #f4f4fd;
+  --background-color-white: #ffffff;
+  --background-color-cloud: #f4f4fd;
   --web-logo: #4d5ae5;
   --paragraf-dark: #434455;
-  --white:#ffffff;
-  --cloud:#f4f4fd;
---button-iris:#4d5ae5;
+  --white: #ffffff;
+  --cloud: #f4f4fd;
+  --button-iris: #4d5ae5;
 }
 
 .link {
@@ -22,9 +22,9 @@
   list-style: none;
 }
 body {
-  font-family:var(--pimary-font);
-  color:var(--primary-text-color);
-  background-color:var(--background-color-white);
+  font-family: var(--pimary-font);
+  color: var(--primary-text-color);
+  background-color: var(--background-color-white);
 }
 
 /* ======================================Komponents========================================== */
@@ -34,7 +34,7 @@ body {
   letter-spacing: 0.02em;
 }
 .descr-title-dark {
-  color:var(--paragraf-dark);
+  color: var(--paragraf-dark);
 }
 .descr-title-light {
   color: var(--cloud);
@@ -48,12 +48,12 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   cursor: pointer;
-  color:var(--primary-text-color);
+  color: var(--primary-text-color);
 }
 
 .contact:hover,
 .contact:focus {
-  color:var(--accent-color);
+  color: var(--accent-color);
 }
 
 .phone-contact {
@@ -61,7 +61,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   cursor: pointer;
-  color:var(--primary-text-color);
+  color: var(--primary-text-color);
 }
 
 /* ======================================Header========================================== */
@@ -72,11 +72,11 @@ body {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  background-color:var(--background-color-cloud);
-  color:var(--secondary-text-color);
+  background-color: var(--background-color-cloud);
+  color: var(--secondary-text-color);
 }
 .web-logo {
-  font-family:var(--secondary-font);
+  font-family: var(--secondary-font);
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -84,10 +84,10 @@ body {
   align-items: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color:var(--web-logo);
+  color: var(--web-logo);
 }
-.studio-logo-dark{
-  font-family:var(--secondary-font);
+.studio-logo-dark {
+  font-family: var(--secondary-font);
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -95,7 +95,7 @@ body {
   align-items: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color:var(--secondary-text-color);
+  color: var(--secondary-text-color);
 }
 
 .menu-link {
@@ -104,7 +104,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color:var(--secondary-text-color);
+  color: var(--secondary-text-color);
 }
 
 .menu-link:hover,
@@ -123,7 +123,7 @@ body {
   line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
-  color:var(--white);
+  color: var(--white);
 }
 
 .type-button {
@@ -142,7 +142,7 @@ body {
 
 .type-button:hover,
 .type-button:focus {
-  background-color:var(--accent-color);
+  background-color: var(--accent-color);
   color: var(--white);
 }
 .nav-button {
@@ -156,7 +156,7 @@ body {
   letter-spacing: 0.04em;
   cursor: pointer;
   color: var(--button-iris);
-  background:var(--background-color-cloud);
+  background: var(--background-color-cloud);
 }
 
 .nav-button:hover,
@@ -173,23 +173,23 @@ body {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color:var(--secondary-text-color);
+  color: var(--secondary-text-color);
 }
 
 /* ========================Our team===================== */
 
 .section-team {
-  background-color:var(--background-color-cloud);
+  background-color: var(--background-color-cloud);
 }
 .team-list {
-  background-color:var(--background-color-white);
+  background-color: var(--background-color-white);
 }
 .name-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color:var(--secondary-text-color);
+  color: var(--secondary-text-color);
 }
 /* ======================================footer========================================== */
 
