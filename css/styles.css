@@ -138,6 +138,7 @@ body {
   cursor: pointer;
   color: var(--white);
   background: var(--web-logo);
+  border: none;
 }
 
 .type-button:hover,
@@ -157,6 +158,7 @@ body {
   cursor: pointer;
   color: var(--button-iris);
   background: var(--background-color-cloud);
+  border: none;
 }
 
 .nav-button:hover,
