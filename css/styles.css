@@ -28,7 +28,7 @@ body {
   letter-spacing: 0.02em;
 }
 .descr-title-dark {
-  color: var(--paragraf-dark);
+  color:var(--paragraf-dark);
 }
 .descr-title-light {
   color: #f4f4fd;
@@ -45,8 +45,8 @@ body {
   color: #434455;
 }
 
-.contact :hover,
-.contact :focus {
+.contact:hover,
+.contact:focus {
   color: #404bbf;
 }
 
@@ -102,8 +102,8 @@ body {
   color: #2e2f42;
 }
 
-.menu-link :hover,
-.menu-link :focus {
+.menu-link:hover,
+.menu-link:focus {
   color: #404bbf;
 }
 
