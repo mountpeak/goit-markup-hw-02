@@ -146,6 +146,9 @@ body {
   background-color: var(--accent-color);
   color: var(--white);
 }
+
+/* <!-- ==================Portfolio ==================--> */
+
 .nav-button {
   font-family: inherit;
   font-weight: 500;
@@ -167,9 +170,7 @@ body {
   color: var(--white);
 }
 
-/* ======================================Section our works========================================== */
-
-/* ======================================Products========================================== */
+/* ======================================Task and goals========================================== */
 .title {
   font-weight: 500;
   font-size: 20px;
